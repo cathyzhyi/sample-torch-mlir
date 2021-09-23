@@ -8,9 +8,9 @@ mul | torch.mul | complete
 add | torch.add | complete
 sum | torch.sum | complete
 argmax | torch.argmax | in-progress
-concat | torch.cat | in-progress
-transpose | torch.transpose | in-progress
+concat | torch.cat | complete
+transpose | torch.transpose | complete
 argmin | torch.argmin | torch_ods_gen
-gather | torch.gather | RefineTypes
-layernorm | torch.layernorm | torch_ods_gen
+gather | torch.gather | complete
+layernorm | torch.layernorm | in-progress
 broadcast | torch.broadcast_to | torch_ods_gen
